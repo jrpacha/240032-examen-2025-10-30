@@ -1,4 +1,4 @@
-# Question 3
+# Question 2
 
 Consider the triangle mesh of Catalonia obtained loading the file `estacions.m` and which can be seen in the figure. The nodes correspond to weather stations whose longitude ( $x$ variable) and latitude ( $y$ variable) are recorded in the first and the second columns of the matrix named `dat`. The remaining columns correspond to the temperature (in °C) recorded at intervals of 30 min from 1 AM to 7 AM on an August night. For instance, the last column corresponds to the value of the temperature at 7 AM of the weather station of that line. The matrix named `elem` is the usual connectivity matrix.
 

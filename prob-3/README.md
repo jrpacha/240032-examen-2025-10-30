@@ -12,8 +12,8 @@ where the viscosity $\mu (y)$ of the fluid is a function that is constant on eac
 
 $$
 \begin{array}{rrrrrr} 
-    \textrm{Element} & \Omega_1  & \Omega_2  & \Omega_3  & \Omega_4  & \Omega_5 \\ \hline
-    \mu \:\textrm{(kg/m/s)} & 0.59 & 0.49 & 0.31 & 0.29 & 0.16\\ \hline \end{array} 
+    \textrm{Element} & \Omega_1  & \Omega_2  & \Omega_3  & \Omega_4  & \Omega_5 \\\\ \hline
+    \mu \:\textrm{(kg/m/s)} & 0.59 & 0.49 & 0.31 & 0.29 & 0.16\\\\ \hline \end{array} 
 $$ 
 
 Assume that the profile is meshed with $5$ equal linear elements as shown in the Figure. The fluid sticks to the walls of the pipe, imposing boundary conditions $u(y_1 )=u(y_6 )=0$ where $y_1$ and $y_6$ are the first and the last nodes.
