@@ -1,4 +1,4 @@
-# 240032-2025-10-30-prob-1
+# 240032-2025-10-30
 
 
 240032 Mètodes Numèrics. Examen Parcial Curs 2025-26, Q1
