@@ -3,8 +3,7 @@ Consider a viscous fluid that moves along a pipe of rectangular section that is 
 
 $$ 
     -\frac{\mathrm{d}}{\mathrm{d}u}
-    \left(\mu (y)\frac{\mathrm{d}u}%
-                      {\mathrm{d}y}
+    \left(\mu (y)\frac{\mathrm{d}u}{\mathrm{d}y}
     \right)=180, 
 $$ 
 
